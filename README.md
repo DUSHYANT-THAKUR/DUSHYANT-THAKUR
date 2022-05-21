@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshepkietmca&label=Profile%20views&color=0e75b6&style=flat" alt="dushyantkietmca" /> </p>
 
-- 🔭 I’m currently working on *ACUTE EYEWEAR WEBSITE DEVELOPER*
+- 🔭 I’m currently working on *Calculator software*
 
-- 🌱 I’m currently learning *C,JAVASCRIPT*
+- 🌱 I’m currently learning *C,JAVA*
 
 - 💬 Ask me about *C,JAVA,HTML,CSS*
 
