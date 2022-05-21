@@ -25,8 +25,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DUSHYANT-THAKUR&show_icons=true&locale=en&layout=compact" alt="DUSHYANT-THAKUR" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DUSHYANT-THAKUR&show_icons=true&locale=en" alt="DUSHYANT-THAKUR" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DUSHYANT-THAKUR&" alt="DUSHYANT-THAKUR" /></p>
